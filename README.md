@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrMars13
-- 👀 I’m interested in SOftware Development and Backend
+- 👀 I’m interested in Software Development and Backend
 - 🌱 I’m currently learning programming languages like C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
